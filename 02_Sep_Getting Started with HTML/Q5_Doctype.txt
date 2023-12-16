@@ -1,0 +1,7 @@
+
+Q5 : What is the DOCTYPE declaration in HTML?
+
+    Answer :
+        All html documents should start with <!DOCTYPE html>. By specifiying this we giving instructions to browser that this document is version of this perticular HTML 5 or HTML 4. besically browser will expect this type of HTML document for render and this the information will gives this tag.
+
+        In HTML 5 declartion is very simple <!DOCTYPE html>, But previously in html 4 declartion was so hard because at that time it was in the form of DTD(Document type Defination).

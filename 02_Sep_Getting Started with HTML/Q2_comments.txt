@@ -1,0 +1,30 @@
+/*Question 2 :
+
+Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML
+documents?
+
+Answer : 
+*/
+
+1> The comment tag used in our code for add comments in our source code. We use it because somtime we don't want to show or don't want to compile or run that comment with our actual code. The comments we used for our additional information and sometimes its used for code readblity(But its not reccommanded). 
+
+2>The another point is while coding sometime we did't required some code we arady wrote it but I know it will be helpful in future so in that case I will mark that code with comments. so in future It will be helpful for develpers.
+
+Example : 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heading in HTML</title>
+</head>
+<body>
+
+    <!-- <h1>HTML defines the content and structure of your website</h1>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis, laborum. At recusandae consequatur quo corporis aperiam nam? Deserunt a ipsam iure laboriosam. Doloribus mollitia quidem recusandae maxime, vel in, ab ullam, perspiciatis eos quas unde aperiam? Vero quis minima nulla nostrum mollitia maxime libero saepe porro, veritatis, quod, ipsam corporis!
+    </p> -->
+    
+</body>
+</html>

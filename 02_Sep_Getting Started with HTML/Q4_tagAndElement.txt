@@ -1,0 +1,17 @@
+
+Q4 : Write a short note on Tag and Element in HTML?
+
+    Answer : 
+
+    Tag : 
+        In simple words tag is something has a opening and closing. By using tags we are giving instructions to the browser to do that perticular task and show that in the UI screen, basically its content.
+        Tag is also staring and ending part of elements. They begin with < symbol and end with > symbol.
+    
+    Example :
+        <p>  </p>
+        
+    elements : 
+        elements are basically consist of any starting tag and ending tag and inside that we are writing some content inside both the tags, so all of that is nothing but elements.
+
+    Example : 
+        <P>This is the element.</P>

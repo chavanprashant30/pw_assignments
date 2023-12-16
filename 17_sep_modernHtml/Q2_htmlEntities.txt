@@ -1,0 +1,26 @@
+HTML Character Entities : 
+
+    Reserved characters in HTML must be replaced with entities:
+        < (less than) = &lt;
+        > (greather than) = &gt;
+
+    Some characters are reserved in HTML.
+
+    If you use the less than (<) or greater than (>) signs in your HTML text, the browser might mix them with tags.
+
+    Entity names or entity numbers can be used to display reserved HTML characters.
+
+    Entity names look like this:
+
+    &entity_name;
+
+    &lt; - Represents the less-than symbol <.
+    Example: <p>This is an example &lt;em&gt;text&lt;/em&gt;.</p>
+    &gt; - Represents the greater-than symbol >.
+    Example: <p>For more information, visit our website &gt; <a href="#">here</a>.</p>
+    &amp; - Represents the ampersand symbol &.
+    Example: <p>For further details, contact us &amp; we'll assist you.</p>
+    &quot; - Represents a double quotation mark "
+    Example: <p>The title of the book is "The Great Gatsby".</p>
+    &copy; - Represents the copyright symbol ©.
+    Example: <p>&copy; 2023 ACME Corporation. All rights reserved.</p>

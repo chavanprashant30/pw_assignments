@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.class{
+    background-color: brown;
+}
+/* Hear I have used brown background color, This color will get apply on background when their is no property for same content i have applied through external css */
