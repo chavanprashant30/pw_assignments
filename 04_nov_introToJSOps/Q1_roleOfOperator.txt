@@ -12,7 +12,6 @@ Ans:
     -Comparison Operators
     -Logical Operators
     -Conditional Operators
-    -Type Operators
 
     They are essential in programming languages as it can be used to :
     1)perform Arithmetic operation.
