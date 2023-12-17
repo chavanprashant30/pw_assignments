@@ -1,0 +1,42 @@
+Q3. Differentiate between unary, binary, and ternary operators in JavaScript. Give examples of each.
+Ans:
+    Operators in JavaScript are categorized based on the number of operands they require into the following groups :
+        
+        -Unary operators: These operators require one operand for operation. Providing two or more can result in a syntax error. Here are some examples of operators that fall under this category.
+
+        Example of Unary Operator : the "typeof" operator
+            The typeof operator returns the data type of a value. It requires only one operand. Here's an example:
+
+                typeof "hello"
+                // string
+
+        -Binary operators: These operators require two operands for operation. If one or more than two operands are provided, such operators result in a syntax error.
+        
+        Example of Unary Operator : Arithmetic Operators
+            All arithmetic operators are binary operators. You have the first operand on the left of the operator, and the second operand on the right of the operator. Here are some examples:
+
+            10 + 20
+            // 30
+
+            20 - 5
+            // 15
+
+            30 / 6
+            // 5
+
+        - ternary Operator : These operators require three operands. In JavaScript, there is one operator that falls under this category – the conditional operator.
+
+        Example of ternary operator: The Conditional Operator ? ... :
+            The conditional operator requires three operands:
+
+            -the conditional expression
+            -the truthy expression which gets evaluated if the condition is true
+            -the falsy expression which gets evaluated if the condition is false.
+
+            const score = 80
+            const scoreRating = score > 50 ? "Good" : "Poor"
+
+            // "Good"
+         
+
+    
