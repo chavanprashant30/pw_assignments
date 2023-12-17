@@ -1,0 +1,19 @@
+Q1. Explain the role of operators in JavaScript. Why are they essential in programming?
+
+Ans: 
+    Operators are used to assign values, compare values, perform arithmetic operations, and more.
+
+    There are different types of JavaScript operators:
+
+    -Arithmetic Operators
+    -Assignment Operators
+    -Comparison Operators
+    -Logical Operators
+    -Conditional Operators
+    -Type Operators
+
+    They are essential in programming languages as it can be used to :
+    1)perform Arithmetic operation.
+    2)Assin operator.
+    3)Compare Operator.
+    4)Perform loical operations
