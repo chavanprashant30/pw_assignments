@@ -5,6 +5,10 @@
 
 // Example: 
 
+    // Syntax :
+     
+    // condition ? console if value is true : console if value is false;
+
     // function age(myAge){
     //     myAge>18 ? console.log("You can drive") : console.log("You can't drive");
     // }
@@ -20,4 +24,4 @@ function evenOdd(no){
 }
 
 evenOdd(10);
-evenOdd(9)
+evenOdd(9);
