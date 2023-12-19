@@ -1,0 +1,51 @@
+Q1. What are conditional statements? Explain conditional statements with syntax and examples.
+Ans:
+    Conditional statements in js are programming constructs that allow a program to execute different blocks of code based on whether a certain condition is true or false. The most common types of conditional statements in js are the if, else if, and else statements.
+
+    Conditional statement in js programming are used to base choices on the conditions. When there is no condition surrounding the statements, conditional statement in js are executed sequentially. The execution flow may alter if a condition is added to a block of statements depending on the outcome of the condition’s evaluation. In "js", this procedure is known as decision-making.
+
+    Conditional statement in js are possible with the use of the following two structures:
+
+    - If statement
+    - If-else statement
+
+    As a program chooses which statement to execute based on the outcome of the evaluated condition, it is also known as branching.
+
+    1).If statement :
+        One of the effective conditional statement in js is this one. The if statement is in charge of changing how a program executes. A condition is always used with an if statement. Any statement inside the body of if is first evaluated against the condition. The following is the syntax for an if statement:
+         
+         if (condition) 
+            //block of code to be executed;
+
+        example:
+
+            let num1 = 10;
+            let num2 = 20;
+
+            if(num1<num2){
+                console.log("Num2 is bigger");
+            }
+
+    2).if-else statement:
+        The if-else statement is a developed form of the if statement. The following is the if-else general form:
+
+            if (test-expression){
+                True block of statements
+            }
+            else{
+                False block of statements
+            }
+            Statements;
+
+        If the test-expression value is true in this type of construct, then the true block of statements will be performed. The false block of statements will be executed if the test-value expression is false. Regardless, upon execution, control will be immediately passed to the statements outside the If block.
+
+        Ex :
+
+        int num=19;
+        
+        if(num<10){
+            console.log("The value is less than 10");
+        }
+        else{
+            console.log("The value is greater than 10");
+        }
